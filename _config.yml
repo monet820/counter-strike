@@ -1,0 +1,7 @@
+title: Counter-Strike guide
+description: Used as reference to learn people new to counter-strike about the game and how to play.
+
+
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
