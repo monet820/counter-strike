@@ -1,0 +1,6 @@
+.Wrapper {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
