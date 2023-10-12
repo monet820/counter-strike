@@ -1,12 +1,10 @@
 # Terrorist
-Smokes
-- A player, Smoke top mid
-- B player, smoke window
+- 2 players, Ta banan, en tilbake (hvis det går veldig bra, prøv med 1)
+- hold mid
+- Ta apps
 
-3 players mid, swap mellom UG/MID
-- Smoke connector
-- Short
-Mål: Plassere en spiller i window/ladder-room
+Mål: Ta kontrol på banan og apps.
+- Kan velge å ta mid control eller execute site A/B
 
 # Counter-Terrorist
 - who cares
