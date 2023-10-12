@@ -1,7 +1,7 @@
 # Terrorist
 Smokes
-A player, Smoke top mid
-B player, smoke window
+- A player, Smoke top mid
+- B player, smoke window
 
 3 players mid, swap mellom UG/MID
 - Smoke connector
